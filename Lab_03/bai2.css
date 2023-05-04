@@ -1,0 +1,31 @@
+.contianer{
+    display: flex;
+}
+.col_2{
+    width: 100px;
+}
+.col_1,
+.col_3{
+display:flex
+
+}
+.col_1{
+    text-align: right;
+}
+.col_3{
+    text-align: left;
+}
+.item.item_title{
+    display: flex;
+}
+.item.item_title img {
+    height: 10px;
+    }
+
+.item .item_description{
+    font-size: 9pt;
+}
+.text{
+    text-align: center;
+
+    }
